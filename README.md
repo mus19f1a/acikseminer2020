@@ -33,7 +33,7 @@
 > - Test Güdümlü Yazılım Geliştirme (TDD) nedir?
 > - Demo: C# ve Visual Studio ile canlı kod geliştirme ve refactoring
 
-Açık semineri [buradan](https://www.youtube.com/embed/HbthQNcQMC4) izleyebilirsiniz.
+Açık semineri [buradan](https://www.youtube.com/watch?v=HbthQNcQMC4) izleyebilirsiniz.
 
 
 
